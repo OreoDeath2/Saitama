@@ -91,6 +91,15 @@
         "eb": true,
         "ec": true
       }
+    },
+    {
+      "name": "Genos",
+      "type": "mob",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "genos"
     }
   ],
   "variable_elements": [],
@@ -99,21 +108,17 @@
     "en_us": {
       "item.onepunchmanmod.saitamasherooutfit_boots": "Saitama\u0027s Hero Boots",
       "item.onepunchmanmod.saitama_spawn_egg": "Saitama Spawn Egg",
-      "item.onepunchmanmod.genos_armor_helmet": "Genos Armor Helmet",
       "item.opmansglove.name": "Serious Punch",
       "item.onepunchmanmod.saitamasherooutfit_helmet": "Saitamas Hero Outfit Helmet",
-      "item.onepunchmanmod.genos_armor_leggings": "Genos Armor Leggings",
       "item.onepunchmanmod.saitamasherooutfit_leggings": "Saitama\u0027s Hero Pants",
       "item.saitamasherooutfithelmet.name": "Saitamas Hero Outfit Helmet",
       "item.saitamasherooutfitbody.name": "Saitama\u0027s Hero body piece",
-      "item.onepunchmanmod.genos_armor_chestplate": "Genos Armor Body",
       "item.saitamasherooutfitboots.name": "Saitama\u0027s Hero Boots",
       "item.onepunchmanmod.saitamasherooutfit_chestplate": "Saitama\u0027s Hero body piece",
       "entity.saitama.name": "Saitama",
       "entity.onepunchmanmod.saitama": "Saitama",
       "entity.boros.name": "Boros",
       "item.saitamasherooutfitlegs.name": "Saitama\u0027s Hero Pants",
-      "item.onepunchmanmod.genos_armor_boots": "Genos Armor Boots",
       "item.onepunchmanmod.opmansglove": "Serious Punch"
     }
   },
