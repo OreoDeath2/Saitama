@@ -6,11 +6,13 @@
   "item.onepunchmanmod.saitamasherooutfit_leggings": "Saitama\u0027s Hero Pants",
   "item.saitamasherooutfitbody.name": "Saitama\u0027s Hero body piece",
   "item.saitamasherooutfithelmet.name": "Saitamas Hero Outfit Helmet",
+  "entity.onepunchmanmod.genos": "Genos",
   "item.saitamasherooutfitboots.name": "Saitama\u0027s Hero Boots",
   "item.onepunchmanmod.saitamasherooutfit_chestplate": "Saitama\u0027s Hero body piece",
   "entity.saitama.name": "Saitama",
   "entity.onepunchmanmod.saitama": "Saitama",
   "entity.boros.name": "Boros",
   "item.saitamasherooutfitlegs.name": "Saitama\u0027s Hero Pants",
-  "item.onepunchmanmod.opmansglove": "Serious Punch"
+  "item.onepunchmanmod.opmansglove": "Serious Punch",
+  "item.onepunchmanmod.genos_spawn_egg": "Genos Spawn Egg"
 }
