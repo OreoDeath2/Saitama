@@ -10,6 +10,9 @@
     "textureLeggings": "genospants",
     "enableBoots": true,
     "textureBoots": "genosshoes",
+    "onBodyTick": {
+      "name": "GenosArmorBodyTickEvent"
+    },
     "creativeTab": {
       "value": "COMBAT"
     },
