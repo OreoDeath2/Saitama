@@ -5,11 +5,11 @@
     "enableHelmet": false,
     "textureHelmet": "",
     "enableBody": true,
-    "textureBody": "genosshirt",
+    "textureBody": "genosshirt1",
     "enableLeggings": true,
-    "textureLeggings": "genospants",
+    "textureLeggings": "genospants2",
     "enableBoots": true,
-    "textureBoots": "genosshoes",
+    "textureBoots": "genosshoes1",
     "creativeTab": {
       "value": "COMBAT"
     },
