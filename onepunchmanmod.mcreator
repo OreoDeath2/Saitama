@@ -96,10 +96,27 @@
       "name": "Genos",
       "type": "mob",
       "sortid": 7,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "genos"
+    },
+    {
+      "name": "GenosArmorBodyTickEvent",
+      "type": "procedure",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "genos_armor_body_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
